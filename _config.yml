@@ -1,11 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Trevor Ramsey # your name (or website title) here
+logo: "/images/Photo.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  MS Geospatial Technologies - University of Oklahoma
+  BA Physical & Environmental Geography - California State University, Chico
   <br><br>
-  Second description 
+  Transcon Environmental - Biologist 2
+  Transcon Environmental - GIS Technician 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.https://www.linkedin.com/in/trevor-ramsey/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
