@@ -5,7 +5,7 @@
 ### Projects from the University of Oklahoma 
 
 [Butte County Water Use](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Butte_County_Water_Level_Sampling_Sites.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
