@@ -1,10 +1,10 @@
-## Portfolio
+## Trevor's Past Projects
 
 ---
 
-### Category Name 1 
+### Projects from the University of Oklahoma 
 
-[Project 1 Title](/sample_page)
+[Butte County Water Use](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
