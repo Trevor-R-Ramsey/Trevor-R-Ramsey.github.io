@@ -8,8 +8,8 @@
 <img src="images/Butte_County_Water_Level_Sampling_Sites.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Butte Creek Ecological Preserve Initial Study](/pdf/sample_presentation.pdf)
+<img src="images/BCEP_MAP_2018.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
