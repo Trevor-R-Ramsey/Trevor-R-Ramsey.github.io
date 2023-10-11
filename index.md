@@ -12,7 +12,8 @@
 <img src="images/BCEP_MAP_2018.JPG?raw=true"/>
 
 ---
-[[!ArcGIS Online Sample Map](images/onlineMap.JPG)](https://arcg.is/0Duq05)
+[ArcGIS Online Sample Map](/pdf/BCEP_Initial_Study.pdf)
+<img src="images/BCEP_MAP_2018.JPG?raw=true"/>
 
 
 ---
